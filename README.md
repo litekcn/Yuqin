@@ -1,15 +1,20 @@
-# Yuqin
-✍ Yuqin Note | 雨晴笔记
+<img align="center" src="https://raw.githubusercontent.com/xwtlt/Yuqin/main/src/logo.png" height="82" width="82"/>
+
+<h1 align = "center">Yuqin Note</h1>
+<p align = "center"><b>✍ 雨晴笔记 | 让你专注写作的 Markdown 编辑器</b></p>
 
 ## 🌟 特性
 
-- [x] 切换所见即所得与实时预览模式
-- [x] 基本 `Markdown` 解析
-- [x] 支持扩展，如任务列表、Emoji、五线谱
+- [x] 🧾 支持实时渲染与源代码编辑
+- [x] ⬇ 基本 `Markdown` 解析
+- [x] 🎨 扩展语法
+- [x] 😀 Emoji 原生支持
+- [x] ⌨ 舒服的快捷键
+- [ ] 🖼 绑定图片存储桶 API
 
 ## 🌠 后记
 
-雨晴笔记的产生，得益于「青韵笔记」的启发，同时感谢各开源库的支持。<br>
+雨晴笔记的产生，得益于「青韵笔记」，离不开各开源库的支持。<br>
 雨晴笔记使用 MIT 许可证，由李科茶室集团维护。
 
 ## 🖊 更新日志
