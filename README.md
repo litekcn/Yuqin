@@ -1,4 +1,4 @@
-<divalign = "center">
+<div align = "center">
   <img src="https://raw.githubusercontent.com/xwtlt/Yuqin/main/src/logo.png" height="82" width="82"/>
   <h1>Yuqin Note</h1>
   <p><b>✍ 雨晴笔记 | 让你专注写作的 Markdown 编辑器</b></p>
