@@ -1,8 +1,9 @@
-<img align="center" src="https://raw.githubusercontent.com/xwtlt/Yuqin/main/src/logo.png" height="82" width="82"/>
-
-<h1 align = "center">Yuqin Note</h1>
-<p align = "center"><b>✍ 雨晴笔记 | 让你专注写作的 Markdown 编辑器</b></p>
-<p align = "center"><b>🧪 持续开发中 💾</b></p>
+<div>
+  <img src="https://raw.githubusercontent.com/xwtlt/Yuqin/main/src/logo.png" height="82" width="82"/>
+  <h1 align = "center">Yuqin Note</h1>
+  <p align = "center"><b>✍ 雨晴笔记 | 让你专注写作的 Markdown 编辑器</b></p>
+  <p align = "center"><b>🧪 持续开发中 💾</b></p>
+ </div>
 
 ## 🌟 特性
 
