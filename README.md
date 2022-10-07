@@ -3,7 +3,7 @@
   <h1>Yuqin Note 雨晴笔记</h1>
   <p><b>✍ 让你专注写作，构建数字花园 | Let You Focus on Writing, Build Your Digital Garden.</b></p>
   <p><b>开源、书栈式的 Markdown 笔记软件（现支持所见即所得） | Open Sourced Markdown BookStack Editor, supports WYSIWYG</b></p>
-  <p><b>🧪 Now Developing! | 缺乏技术支持，开发周期较长！💾</b></p>
+  <p><b>🧪 Now Developing! | 开发周期较长！💾</b></p>
   <b>🌏 | <a href="https://github.com/xwtlt/Yuqin/README.md">简体中文</a> | <a href="https://github.com/xwtlt/Yuqin/">Translate</a></b>
  </div>
 
