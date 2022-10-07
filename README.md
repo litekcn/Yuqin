@@ -1,37 +1,22 @@
 <div align = "center">
   <img src="https://raw.githubusercontent.com/xwtlt/Yuqin/main/src/logo.png" height="82" width="82"/>
   <h1>Yuqin Note</h1>
-  <p><b>✍ 雨晴笔记 | 让你专注写作的 Markdown 编辑器</b></p>
-  <p><b>🧪 持续开发中 💾</b></p>
+  <p><b>✍ 雨晴笔记 | Open Sourced Markdown Note Stack Editor And supports WYSIWYG</b></p>
+  <p><b>🧪 Now Developing! | 雨晴笔记是一个开发中的应用，未发布正式版，并不稳定！💾</b></p>
+  <b>🌏 | <a href="https://github.com/xwtlt/Yuqin/README.md">简体中文</a> | <a href="https://github.com/xwtlt/Yuqin/">Translate</a></b>
  </div>
 
 ## 🌟 特性
 
-- [ ] 🧾 支持实时渲染与源代码编辑
-- [x] ⬇ 基本 `Markdown` 解析
+- [x] 🛂 免费且开源 - 不需要收费的应用
+- [x] 🧾 支持 `Markdown` 所见即所得渲染 - 让你如鱼得水的开始写作 
+- [ ] 📚 书架式管理文件 - 甚至比你的书架还好用
 - [ ] 🎨 扩展语法
 - [ ] 😀 Emoji 原生支持、短代码支持
 - [ ] ⌨ 舒服的快捷键
-- [ ] 🖼 绑定图片存储桶 API
+- [ ] 🖼 绑定图片存储桶 - 快速躺在靠谱的图床上
 
 ## 🌠 后记
 
-雨晴笔记的产生，得益于「青韵笔记」，离不开各开源库的支持。<br>
+雨晴笔记的产生，离不开各开源库的支持。<br>
 雨晴笔记使用 MIT 许可证，由李科茶室集团维护。
-
-## 🖊 更新日志
-
-#### 0.22.2
-2022.10.1
-- 新的 Logo 标志
-- 新增进入加载界面动画
-- 优化笔记保存
-
-#### 0.22.1
-2022.8.23
-- CSS 小更改
-
-#### 0.22.0
-2022.1.28
-- 原基本功能优化
-- 更改、更新框架，更改默认字体
