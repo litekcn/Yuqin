@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/xwtlt/Yuqin/main/src/logo.png" height="82" width="82"/>
   <h1>Yuqin Note</h1>
   <p><b>✍ 雨晴笔记 | Open Sourced Markdown Note Stack Editor And supports WYSIWYG</b></p>
-  <p><b>🧪 Now Developing! | 雨晴笔记是一个开发中的应用，未发布正式版，并不稳定！💾</b></p>
+  <p><b>🧪 Now Developing! | 缺乏技术支持，开发周期较长！💾</b></p>
   <b>🌏 | <a href="https://github.com/xwtlt/Yuqin/README.md">简体中文</a> | <a href="https://github.com/xwtlt/Yuqin/">Translate</a></b>
  </div>
 
